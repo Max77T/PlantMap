@@ -1,5 +1,2 @@
 # PlantMap
 PlantMap Project
-
-...
-..
